@@ -26,9 +26,6 @@
 
 ![修改workflow](assets/check.png)
 
-## 讨论群
+## 讨论TEST
 
-TG： https://t.me/tiebasign
-
-qq群： 818794879
 
